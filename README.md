@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ravi</h1>
 
  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <img src ="https://i.pinimg.com/originals/72/98/a2/7298a259e46ced8d8d636b3081a1ed57.gif" alt="coder" width="300 
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -26,6 +26,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <h3 align="center">A passionate Computer Science student with a keen interest in software development, problem-solving, and open-source. I'm on a journey to bridge theoretical knowledge with practical application by building projects and contributing to the community.</h3>
+ <br>
+     <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI0bDRsbzk4djA5cmtseXVpanhuN2d0dnBnMmgwbzJwbmZrcjdpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" alt="coder" width= "300"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravizf&label=Profile%20views&color=0e75b6&style=flat" alt="ravizf" /> </p>
 
@@ -48,7 +50,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravizf&" alt="ravizf" /></p>
 <h2 align="left">
  <abc>
-  
+  <img src="https://miro.medium.com/1*Jpa8rCgOgqcERl3QJ5PTMw.gif" alt="coder" width = "300"
  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -78,7 +80,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
@@ -93,3 +94,18 @@
 </picture>
 
 ###
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+<div align="center">
+<h3 id="--quote">✍️ Quote</h3>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=rlaadic](https://media.licdn.com/dms/image/v2/D5622AQGIafwF5WWNcA/feedshare-shrink_800/feedshare-shrink_800/0/1733728334794?e=2147483647&v=beta&t=q6bSs-M_1pdw7aJTmWZcdYwKJ1XRzFER9_W4nfjL09o)https://media.licdn.com/dms/image/v2/D5622AQGIafwF5WWNcA/feedshare-shrink_800/feedshare-shrink_800/0/1733728334794?e=2147483647&v=beta&t=q6bSs-M_1pdw7aJTmWZcdYwKJ1XRzFER9_W4nfjL09o" alt=""></p>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
