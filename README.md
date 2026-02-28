@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ravi</h1>
+<h1 align="center">Hello 👋 How are you, I'm Ravi</h1>
 
  <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> 
