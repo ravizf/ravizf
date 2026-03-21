@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 How are you, I'm Ravi Hi, I'm Ravi 👋  
+<h1 align="center">I'm Ravi Hi, I'm Ravi 👋  
 
 🚀 Aspiring Software Engineer | Web Developer  
 </h1>
