@@ -1,4 +1,7 @@
-<h1 align="center">Hello 👋 How are you, I'm Ravi</h1>
+<h1 align="center">Hello 👋 How are you, I'm Ravi Hi, I'm Ravi 👋  
+
+🚀 Aspiring Software Engineer | Web Developer  
+</h1>
 
  <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> 
@@ -24,7 +27,10 @@
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-<h3 align="center">A passionate Computer Science student with a keen interest in software development, problem-solving, and open-source. I'm on a journey to bridge theoretical knowledge with practical application by building projects and contributing to the community.</h3>
+<h3 align="center">🎓 B.Tech CSE Student  
+- 💡 Passionate about building real-world projects  
+- 🌱 Currently learning Full Stack Development  
+- ⚡ Focused on improving problem-solving and coding skills  </h3>
  <br>
      <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI0bDRsbzk4djA5cmtseXVpanhuN2d0dnBnMmgwbzJwbmZrcjdpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" alt="coder" width= "300"
 
@@ -72,6 +78,20 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
+### 🌦️ Weather App
+🔗 Live: https://weatherappravizf.netlify.app/  
+- Real-time weather data using API  
+- City search functionality  
+- Responsive UI  
+
+---
+
+### 🌐 Portfolio Website
+🔗 Live: https://websiteravizf.netlify.app/  
+- Showcases my projects and skills  
+- Clean and responsive design  
+
+---
 
 <div align="center">
   />
@@ -94,3 +114,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+## 📊 GitHub Stats
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravizf&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/ravi-ravizf3  
+- 🌐 Portfolio: https://websiteravizf.netlify.app/  
+
+---
+
+⭐ “Consistent learning and building is my path to success.”
